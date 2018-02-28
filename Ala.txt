@@ -1,6 +1,7 @@
 To jest
 dokument
-który
+ktÃ³ry
 jest zapisany
 w
 repozytorium
+nowy plik
