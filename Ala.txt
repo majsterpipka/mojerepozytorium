@@ -1,12 +1,3 @@
-To jest
-dokument
-ktory
-(nie piszemy polskich znkow)
-jest zapisany
-w
-repozytorium
-
-ilona
-nic sie nie sta³o nowe 
-noyw ale nie plik
-nowe dane
+Linia 1
+Linia 2
+Linia 3
