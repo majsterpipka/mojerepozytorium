@@ -1,4 +1,5 @@
-no to mamy w³asnego brancza 
+no to mamy wÂ³asnego brancza 
 jeden a
 
 stahs
+nowa linijka nie local
