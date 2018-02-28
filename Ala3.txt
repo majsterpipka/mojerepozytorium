@@ -2,4 +2,3 @@ no to mamy w³asnego brancza
 jeden a
 
 stahs
-nowa linijka nie local
