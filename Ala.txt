@@ -1,6 +1,9 @@
 To jest
 dokument
-który
+ktory
+(nie piszemy polskich znkow)
 jest zapisany
 w
 repozytorium
+
+ilona
