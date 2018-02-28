@@ -1,0 +1,6 @@
+To jest
+dokument
+który
+jest zapisany
+w
+repozytorium
